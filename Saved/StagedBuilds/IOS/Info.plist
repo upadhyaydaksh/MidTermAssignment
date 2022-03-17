@@ -9,7 +9,7 @@
         <string>com.Epic.Unreal</string>
         <key>CFBundleURLSchemes</key>
         <array>
-          <string>UE4Game</string>
+          <string>MidTermAssignment</string>
         </array>
       </dict>
     </array>
@@ -18,7 +18,7 @@
     <key>CFBundleDisplayName</key>
     <string>MidTermAssignment</string>
     <key>CFBundleExecutable</key>
-    <string>UE4Game</string>
+    <string>MidTermAssignment</string>
     <key>CFBundleIdentifier</key>
     <string>ca.MDEVDaksh.midterm</string>
     <key>CFBundleInfoDictionaryVersion</key>
@@ -30,7 +30,7 @@
     <key>CFBundleSignature</key>
     <string>????</string>
     <key>CFBundleVersion</key>
-    <string>0.6</string>
+    <string>0.3</string>
     <key>CFBundleShortVersionString</key>
     <string>1.0</string>
     <key>LSRequiresIPhoneOS</key>
